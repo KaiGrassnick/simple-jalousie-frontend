@@ -1,4 +1,4 @@
-# Simple Frontend for ES8266 Jalouse-Control
+# Simple Frontend for ES8266 Jalousie-Control
 
 This is a dirty and fast approach to control the living-room jalousie.
 It's supposed to be replaced by the SimpleSmartHome Project.
